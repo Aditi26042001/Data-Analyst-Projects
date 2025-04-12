@@ -66,7 +66,8 @@ This dashboard focuses on the profitability of the company, identifying the most
 ## 💡 Tools & Technologies Used
 - **Power BI** for visualization
 - **DAX** for calculated measures and KPIs
-- **Mapbox** for geographical representation
+- **SQL** for data extraction
+- **Tableau** for visualization
 - **Excel/CSV files** as data sources
 
 ## 📁 Files
