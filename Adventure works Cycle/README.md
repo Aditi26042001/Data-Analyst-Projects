@@ -84,6 +84,7 @@ This dashboard focuses on the profitability of the company, identifying the most
 **Adarsh V**  
 B.Sc Chemistry & Biotechnology | Data Analyst Enthusiast  
 GitHub: github.com/AdarshV2004
+
 LinkedIn: https://www.linkedin.com/in/adarsh-v-680565353
 ---
 
